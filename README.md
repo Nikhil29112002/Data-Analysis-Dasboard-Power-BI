@@ -61,5 +61,5 @@ To analyze and visualize Madhav E-commerce sales data in order to understand ove
 
 ## Dashboard
 
-![vinda store](https://github.com/user-attachments/assets/268a28ee-2fa4-4d58-802f-d1802ec51f5e)
+![vinda store](https://github.com/Nikhil29112002/Data-Analysis-Dasboard-Power-BI/blob/main/MADHAV%20ECOMMERCE%20SALES.png)
 
