@@ -58,3 +58,8 @@ To analyze and visualize Madhav E-commerce sales data in order to understand ove
 
 ✅ Review & Insights:
 - Final check to ensure accuracy, followed by identifying key business insights and trends from the dashboard.
+
+## Dashboard
+
+![vinda store](https://github.com/user-attachments/assets/268a28ee-2fa4-4d58-802f-d1802ec51f5e)
+
